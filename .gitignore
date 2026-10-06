@@ -1,0 +1,4 @@
+node_modules/
+market_community.db
+market_community.db-shm
+market_community.db-wal

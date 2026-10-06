@@ -3,7 +3,7 @@
 Web komunitas tema pink dengan login, status, grup, chat real-time, dan panel admin.
 
 ## Jalankan
-Node.js 18+ diperlukan.
+Node.js 22+ diperlukan.
 
 ```bash
 npm install
